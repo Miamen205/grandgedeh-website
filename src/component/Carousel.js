@@ -26,7 +26,7 @@ class Carouselpage extends Component {
         },
         '@media (min-width: 900px)': {
           width: '960px',
-          height: '600px'
+          height: '400px'
         }
       }}
     >
