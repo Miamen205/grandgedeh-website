@@ -33,15 +33,12 @@ class Carouselpage extends Component {
     
       
      
-      <img src={Picture40 } alt='The National Secretary: Ziawo A Dorbor' data-action="https://doce.cc/"/>
+    <img src={Picture54} alt=' The National Chaplain:Training Tarlue' data-action="http://tw.yahoo.com"/>
       <img src={Picture1} alt='The National Tresurer: Moses Gorwah' data-action="http://tw.yahoo.com"/>
+      <img src={Picture40 } alt='The National Secretary: Ziawo A Dorbor' data-action="https://doce.cc/"/>
       <img src={Vpresident} alt='The National Vice President: Hon Harsaus Tarwo' data-action="http://passer.cc"/>
       <img src={President} alt='The National President: Hon Augustine S Manyeah' data-action="https://facebook.github.io/react/"/>
       <img src={Gedehlogo} alt='G.G.A.A' data-action="https://facebook.github.io/react/"/>
-      <img src={Picture54} alt=' The National Chaplain:Training Tarlue' data-action="http://tw.yahoo.com"/>
-      <img src={Picture54} alt='Album four' data-action="http://tw.yahoo.com"/>
-      <img src={Picture40} alt='Album four' data-action="http://tw.yahoo.com"/>
-      <img src={Picture40} alt='Album four' data-action="http://tw.yahoo.com"/>
     </Coverflow>
     </div>
   </StyleRoot>
